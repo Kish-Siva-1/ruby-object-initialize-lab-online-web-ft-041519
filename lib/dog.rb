@@ -6,6 +6,4 @@ class Dog
     @breed = new_breed
   end
   
-  initialize("Mutt","Mutt")
-  
 end
